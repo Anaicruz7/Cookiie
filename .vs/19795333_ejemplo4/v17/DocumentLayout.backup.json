@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{C45BDED3-04A8-4A7B-A436-08DAB72469C7}|19795333_ejemplo4\\19795333_ejemplo4.csproj|solutionrelative:19795333_ejemplo4\\cookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45BDED3-04A8-4A7B-A436-08DAB72469C7}|19795333_ejemplo4\\19795333_ejemplo4.csproj|c:\\users\\anai\\desktop\\practica3\\asp\\19795333_ejemplo4\\19795333_ejemplo4\\cookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C45BDED3-04A8-4A7B-A436-08DAB72469C7}|19795333_ejemplo4\\19795333_ejemplo4.csproj|C:\\Users\\anai\\Desktop\\Practica3\\ASP\\19795333_ejemplo4\\19795333_ejemplo4\\cookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C45BDED3-04A8-4A7B-A436-08DAB72469C7}|19795333_ejemplo4\\19795333_ejemplo4.csproj|solutionrelative:19795333_ejemplo4\\cookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45BDED3-04A8-4A7B-A436-08DAB72469C7}|19795333_ejemplo4\\19795333_ejemplo4.csproj|c:\\users\\anai\\desktop\\practica3\\asp\\19795333_ejemplo4\\19795333_ejemplo4\\cookis2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45BDED3-04A8-4A7B-A436-08DAB72469C7}|19795333_ejemplo4\\19795333_ejemplo4.csproj|solutionrelative:19795333_ejemplo4\\cookis2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45BDED3-04A8-4A7B-A436-08DAB72469C7}|19795333_ejemplo4\\19795333_ejemplo4.csproj|c:\\users\\anai\\desktop\\practica3\\asp\\19795333_ejemplo4\\19795333_ejemplo4\\cookis2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C45BDED3-04A8-4A7B-A436-08DAB72469C7}|19795333_ejemplo4\\19795333_ejemplo4.csproj|solutionrelative:19795333_ejemplo4\\cookis2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cookis2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\19795333_ejemplo4\\19795333_ejemplo4\\Cookis2.aspx.cs",
+              "RelativeDocumentMoniker": "19795333_ejemplo4\\Cookis2.aspx.cs",
+              "ToolTip": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\19795333_ejemplo4\\19795333_ejemplo4\\Cookis2.aspx.cs",
+              "RelativeToolTip": "19795333_ejemplo4\\Cookis2.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:10:41.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cookis2.aspx",
+              "DocumentMoniker": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\19795333_ejemplo4\\19795333_ejemplo4\\Cookis2.aspx",
+              "RelativeDocumentMoniker": "19795333_ejemplo4\\Cookis2.aspx",
+              "ToolTip": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\19795333_ejemplo4\\19795333_ejemplo4\\Cookis2.aspx",
+              "RelativeToolTip": "19795333_ejemplo4\\Cookis2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T01:08:49.36Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "19795333_ejemplo4\\cookies.aspx.cs",
               "ToolTip": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\19795333_ejemplo4\\19795333_ejemplo4\\cookies.aspx.cs",
               "RelativeToolTip": "19795333_ejemplo4\\cookies.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T00:25:04.14Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "19795333_ejemplo4\\cookies.aspx",
               "ToolTip": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\19795333_ejemplo4\\19795333_ejemplo4\\cookies.aspx",
               "RelativeToolTip": "19795333_ejemplo4\\cookies.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-02-27T00:24:42.64Z",
               "EditorCaption": ""

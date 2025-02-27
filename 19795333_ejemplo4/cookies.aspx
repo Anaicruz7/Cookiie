@@ -14,7 +14,7 @@
                 <asp:Label ID="Label1" runat="server" Text="Use Category Array"></asp:Label>
 
 
-</div>
+
 <p>
     <asp:Button ID="btnCreateArray" runat="server" OnClick="btnCreateArray_Click" Text="Create Array" />
 </p>

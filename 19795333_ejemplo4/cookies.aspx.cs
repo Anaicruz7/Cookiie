@@ -25,7 +25,7 @@ namespace _19795333_ejemplo4
 
             Session["txtCategoryArray"] = txtCategoryArray;
 
-            Response.Redirect("cookies2.aspx");
+            Response.Redirect("cookis2.aspx");
         }
     }
 }
